@@ -123,10 +123,118 @@ Mientras antiguas heridas vuelven a abrirse y enemigos del pasado regresan para 
 
 **Destinos Cruzados** es una historia sobre los lazos que unen a las personas, el peso de las decisiones, la esperanza de la redención y la certeza de que incluso las almas más quebradas pueden encontrar un camino hacia la luz.
 
+***Géneros y temáticas***
+
+## *Géneros*
+
+Destinos Cruzados combina distintos géneros narrativos para construir una historia centrada tanto en el desarrollo de sus personajes como en el conflicto que rodea a su mundo.
+
+- Fantasía: El universo de la obra está compuesto por el Cielo, el Infierno y el reino humano, además de contar con una mitología propia, poderes sobrenaturales y criaturas como ángeles, demonios y dragones.
+
+- Drama: Las pérdidas, los sacrificios, los conflictos familiares y las decisiones difíciles forman parte esencial de la historia y del crecimiento de sus personajes.
+
+- Acción: La obra incluye enfrentamientos físicos y sobrenaturales que surgen a medida que el conflicto entre los distintos reinos se intensifica.
+
+- Romance: Las relaciones entre los personajes desempeñan un papel importante en la trama, influyendo en sus decisiones, motivaciones y evolución.
+
+- Aventura: Los protagonistas recorren distintos lugares, descubren secretos del pasado y enfrentan desafíos que cambiarán el rumbo de sus vidas.
+
+## *Temáticas*
+
+A lo largo de la historia se desarrollan diversos temas que dan profundidad al universo de Destinos Cruzados y a sus personajes.
+
+- El destino y el libre albedrío.
+- El karma y las consecuencias de los actos.
+- La redención y las segundas oportunidades.
+- La amistad y los vínculos familiares.
+- El amor en sus diferentes formas.
+- El sacrificio por quienes más se ama.
+- La pérdida, el duelo y la esperanza.
+- La identidad y el crecimiento personal.
+- La lucha entre la luz y la oscuridad, tanto en el mundo como en el interior de cada personaje.
+
+## *Inspiraciones*
+
+Como toda obra de ficción, Destinos Cruzados ha sido influenciada por diversas ideas, obras y referencias que han contribuido a la construcción de su universo. Sin embargo, la historia, los personajes y los acontecimientos que aquí se presentan son completamente originales y forman parte de una mitología propia.
+
+Una de las principales fuentes de inspiración ha sido la Biblia, especialmente algunos de sus personajes, conceptos y simbolismos. Elementos como la existencia del Cielo y el Infierno, los ángeles, los demonios y ciertas figuras inspiradas libremente en personajes bíblicos sirvieron como punto de partida para desarrollar el mundo de Destinos Cruzados. No obstante, estos elementos han sido reinterpretados y adaptados para encajar en la narrativa de la obra.
+
+Por ejemplo, el personaje de Dios es representado como una figura femenina y hermana de Luciel, mientras que otros personajes y acontecimientos presentan diferencias significativas respecto a sus posibles inspiraciones. Estas decisiones forman parte de la identidad propia del universo y no buscan representar ni reinterpretar de manera fiel ningún texto o creencia religiosa.
+
+Además de las referencias religiosas, la obra también se inspira en temas universales como el destino, la redención, el sacrificio, el amor, la pérdida y la esperanza, buscando construir una historia donde las emociones y el desarrollo de los personajes sean el eje principal de la narrativa.
+
+Todas estas influencias han servido únicamente como punto de partida para dar vida a un universo con sus propias reglas, historia, personajes y mitología.
 
 
+## Personajes
+
+Los personajes son el corazón de Destinos Cruzados. Cada uno posee una personalidad, una historia y motivaciones propias que influyen en el desarrollo de la trama y en el destino de quienes los rodean.
+
+A lo largo de la obra, sus vidas se entrelazan a través de la amistad, el amor, los conflictos, los sacrificios y las decisiones que toman. Ningún personaje existe por casualidad: todos cumplen un papel dentro del universo y contribuyen a construir una historia donde cada acción tiene consecuencias.
+
+En esta sección encontrarás información oficial sobre los protagonistas, antagonistas y personajes secundarios, incluyendo su historia, personalidad, habilidades, relaciones y otros datos relevantes.
 
 
+## Protagonistas
 
+Los protagonistas de Destinos Cruzados son los personajes que impulsan el desarrollo de la historia y cuyo crecimiento marca el rumbo de los acontecimientos. Aunque provienen de mundos diferentes y poseen objetivos distintos, sus vidas terminan entrelazándose por un mismo destino.
 
+Cada uno enfrenta conflictos personales, pérdidas y decisiones que pondrán a prueba sus ideales y su forma de ver el mundo. A medida que la historia avanza, sus acciones no solo transforman sus propias vidas, sino también el equilibrio entre el Cielo, el Infierno y el reino humano.
 
+En esta sección encontrarás información detallada sobre cada uno de los protagonistas, incluyendo su historia, personalidad, habilidades, relaciones y otros aspectos relevantes dentro de la obra.
+
+## Protagonistas
+
+🌿***Zafira Viridian***
+
+*Descripción*
+
+Zafira Viridian es la protagonista principal de Destinos Cruzados. Es una joven amable, perseverante y empática que, pese a las tragedias que han marcado su vida, nunca deja de creer en las personas ni de luchar por aquello que considera correcto. Su mayor sueño es convertirse en cantante y transmitir sus sentimientos a través de la música.
+
+A lo largo de la historia deberá enfrentarse a un destino que cambiará por completo su vida, descubriendo que su existencia está estrechamente ligada al conflicto que amenaza el equilibrio entre el Cielo, el Infierno y el mundo humano.
+
+*Motivación*
+
+Proteger a las personas que ama, perseguir su sueño como cantante y demostrar que incluso quienes han sufrido profundamente pueden encontrar un futuro lleno de esperanza.
+
+---
+
+🔥 ***Karma Meyer***
+
+*Descripción*
+
+Karma es uno de los protagonistas centrales de la obra. Es un demonio marcado por un pasado de abandono y maltrato que aprendió a ocultar su dolor tras una personalidad reservada y protectora. A pesar de cargar con el peso de innumerables cicatrices, conserva un profundo sentido de la lealtad y está dispuesto a sacrificarlo todo por quienes considera su familia.
+
+Su habilidad para absorber el karma de otras personas representa tanto su mayor poder como su mayor maldición.
+
+*Motivación*
+
+Redimirse de los errores del pasado, proteger a Zafira y encontrar un lugar donde finalmente pueda ser aceptado.
+
+---
+
+☀ ***Artemis***
+
+*Descripción*
+
+Artemis es el mejor amigo de la infancia de Zafira y Karma. Noble, optimista y dispuesto a ayudar a los demás, representa el apoyo incondicional dentro del grupo. Aunque también enfrenta conflictos personales, procura anteponer la felicidad de las personas que ama antes que la suya.
+
+Su valentía y determinación lo convierten en una pieza fundamental durante los acontecimientos más importantes de la historia.
+
+*Motivación*
+
+Proteger a sus seres queridos y mantenerse fiel a sus principios, incluso cuando eso implique renunciar a sus propios deseos.
+
+---
+
+🌹 ***Alice Smith***
+
+*Descripción*
+
+Alice es una joven de corazón bondadoso cuya vida está rodeada de misterios que ni ella misma comprende. Extrañas visiones del pasado y una conexión inexplicable con varios personajes la llevan a cuestionar su propia identidad y el origen de sus recuerdos.
+
+Con el paso del tiempo descubrirá que su papel dentro de la historia es mucho más importante de lo que jamás imaginó.
+
+*Motivación*
+
+Descubrir la verdad sobre sí misma, comprender el origen de sus recuerdos y proteger a las personas que aprecia, incluso si eso implica enfrentarse a su propio destino.
