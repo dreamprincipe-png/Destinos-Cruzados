@@ -109,7 +109,7 @@ A través de una narrativa centrada en el desarrollo de sus personajes, **Destin
 
 Este sitio reúne la información oficial de la obra y está pensado como un espacio para descubrir en profundidad su historia, sus personajes y el mundo que los rodea.
 
-<img width="90" height="40" alt="WhatsApp Image 2026-07-02 at 11 58 19 PM" src="https://github.com/user-attachments/assets/426e0b01-e8a8-41db-8f3e-a146c6c8f060" />
+<img width="200" height="100" alt="WhatsApp Image 2026-07-02 at 11 58 19 PM" src="https://github.com/user-attachments/assets/426e0b01-e8a8-41db-8f3e-a146c6c8f060" />
 
 ## Sinopsis
 
