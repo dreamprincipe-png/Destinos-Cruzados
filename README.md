@@ -332,7 +332,7 @@ Ernesto es el padre adoptivo de Karma y el padre de Zafira. Médico de profesió
 
 Proteger a su familia y hacer todo lo posible por salvar la vida de Zafira.
 
-<img width="1024" height="1024" alt="WhatsApp Image 2026-07-03 at 12 17 02 AM (3)" src="https://github.com/user-attachments/assets/90b4abdb-9845-46ba-a826-5a06c43bf9ef" />
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 12 17 02 AM (3)" src="https://github.com/user-attachments/assets/90b4abdb-9845-46ba-a826-5a06c43bf9ef" />
 
 
 
