@@ -111,6 +111,17 @@ Este sitio reúne la información oficial de la obra y está pensado como un esp
 
 <img width="1600" height="914" alt="WhatsApp Image 2026-07-02 at 11 58 19 PM" src="https://github.com/user-attachments/assets/426e0b01-e8a8-41db-8f3e-a146c6c8f060" />
 
+## Sinopsis
+
+En un mundo donde el Cielo, el Infierno y el reino humano permanecen unidos por un frágil equilibrio, el destino de varias personas comienza a entrelazarse de maneras que ninguno de ellos podría imaginar.
+
+Zafira Viridian, una joven que sueña con convertirse en cantante, ha vivido marcada por la pérdida y la enfermedad desde su nacimiento. A pesar de las dificultades, conserva la esperanza y continúa luchando por encontrar su lugar en el mundo. Su vida cambia por completo cuando los secretos del universo que la rodea salen a la luz y descubre que su existencia está ligada a un conflicto mucho más antiguo de lo que jamás imaginó.
+
+Junto a Karma, un misterioso demonio perseguido por un pasado lleno de dolor, y otros personajes cuyas vidas han sido moldeadas por el sacrificio, la culpa, el amor y la redención, Zafira se verá envuelta en una historia donde cada decisión tendrá consecuencias capaces de alterar el destino de los tres reinos.
+
+Mientras antiguas heridas vuelven a abrirse y enemigos del pasado regresan para reclamar aquello que creen perdido, los protagonistas deberán enfrentarse a sus propios miedos, desafiar las leyes que gobiernan el mundo y descubrir que, a veces, el mayor enemigo no es el destino, sino las decisiones que tomamos para cambiarlo.
+
+**Destinos Cruzados** es una historia sobre los lazos que unen a las personas, el peso de las decisiones, la esperanza de la redención y la certeza de que incluso las almas más quebradas pueden encontrar un camino hacia la luz.
 
 
 
