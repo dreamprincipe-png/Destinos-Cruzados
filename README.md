@@ -197,7 +197,7 @@ A lo largo de la historia deberá enfrentarse a un destino que cambiará por com
 Proteger a las personas que ama, perseguir su sueño como cantante y demostrar que incluso quienes han sufrido profundamente pueden encontrar un futuro lleno de esperanza.
 
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM (1)" src="https://github.com/user-attachments/assets/06736cb5-7478-4057-a843-3bf657058e75" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM (1)" src="https://github.com/user-attachments/assets/06736cb5-7478-4057-a843-3bf657058e75" />
 
 
 
@@ -215,7 +215,7 @@ Su habilidad para absorber el karma de otras personas representa tanto su mayor 
 
 Redimirse de los errores del pasado, proteger a Zafira y encontrar un lugar donde finalmente pueda ser aceptado.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
 
 
 
@@ -233,7 +233,7 @@ Su valentía y determinación lo convierten en una pieza fundamental durante los
 
 Proteger a sus seres queridos y mantenerse fiel a sus principios, incluso cuando eso implique renunciar a sus propios deseos.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM" src="https://github.com/user-attachments/assets/fef0c9f0-2a22-449f-ba48-100747290ddd" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM" src="https://github.com/user-attachments/assets/fef0c9f0-2a22-449f-ba48-100747290ddd" />
 
 
 
@@ -251,7 +251,7 @@ Con el paso del tiempo descubrirá que su papel dentro de la historia es mucho m
 
 Descubrir la verdad sobre sí misma, comprender el origen de sus recuerdos y proteger a las personas que aprecia, incluso si eso implica enfrentarse a su propio destino.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 23 PM (4)" src="https://github.com/user-attachments/assets/b61e026b-cf7f-4b99-8c04-1598cb5c1fbe" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 23 PM (4)" src="https://github.com/user-attachments/assets/b61e026b-cf7f-4b99-8c04-1598cb5c1fbe" />
 
 
 
@@ -265,7 +265,7 @@ Cada antagonista desempeña un papel fundamental en el desarrollo de la trama, p
 
 ---
 
-## 👑 Luciel
+👑 ***Luciel***
 
 **Descripción**
 
@@ -278,13 +278,13 @@ Aunque suele mostrarse frío y distante, también posee un lado más humano que 
 Conservar el equilibrio de su reino y proteger aquello que considera más importante, incluso si para lograrlo debe enfrentarse al resto del mundo.
 
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (1)" src="https://github.com/user-attachments/assets/0665ae5f-c0d4-43ac-9164-b09fa696d5c6" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (1)" src="https://github.com/user-attachments/assets/0665ae5f-c0d4-43ac-9164-b09fa696d5c6" />
 
 
 
 ---
 
-## 🐍 Danieru
+🐍 ***Danieru***
 
 **Descripción**
 
@@ -296,7 +296,7 @@ A lo largo de la obra su papel evoluciona constantemente, convirtiéndose en un 
 
 Alcanzar sus propios objetivos y encontrar el camino que considera correcto, aun cuando ello implique tomar decisiones moralmente cuestionables.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 33 25 PM" src="https://github.com/user-attachments/assets/47294d87-f555-4e01-8c6c-9d24e01b284f" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 2 33 25 PM" src="https://github.com/user-attachments/assets/47294d87-f555-4e01-8c6c-9d24e01b284f" />
 
 ## Personajes secundarios
 
@@ -305,7 +305,7 @@ Los personajes secundarios enriquecen el universo de **Destinos Cruzados** y des
 Cada uno aporta una perspectiva diferente al mundo de la obra, permitiendo conocer con mayor profundidad la historia, la cultura y los conflictos de los distintos reinos.
 
 ---
-## 🌸 Lilith
+🌸 ***Lilith***
 
 **Descripción**
 
@@ -317,12 +317,12 @@ Falleció al dar a luz a Karma, por lo que nunca tuvo la oportunidad de conocer 
 
 Proteger a su familia y traer una nueva vida al mundo con la esperanza de que pudiera crecer en un futuro mejor. Incluso después de su muerte, su recuerdo continúa inspirando a quienes la conocieron.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 3 06 58 PM (1)" src="https://github.com/user-attachments/assets/04e5f1d1-84e0-4346-8bd2-198d151ddc4b" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 3 06 58 PM (1)" src="https://github.com/user-attachments/assets/04e5f1d1-84e0-4346-8bd2-198d151ddc4b" />
 
 
 
 ---
-## 🩺 Ernesto
+🩺 ***Ernesto***
 
 **Descripción**
 
@@ -332,13 +332,13 @@ Ernesto es el padre adoptivo de Karma y el padre de Zafira. Médico de profesió
 
 Proteger a su familia y hacer todo lo posible por salvar la vida de Zafira.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 3 26 17 PM" src="https://github.com/user-attachments/assets/fdba3dbc-a7c7-4f07-895c-04b3978dfc46" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 3 26 17 PM" src="https://github.com/user-attachments/assets/fdba3dbc-a7c7-4f07-895c-04b3978dfc46" />
 
 
 
 ---
 
-## 🧹 Madeleine
+🧹 ***Madeleine***
 
 **Descripción**
 
@@ -348,13 +348,13 @@ Madeleine fue la sirvienta encargada de cuidar de Karma durante su infancia. A p
 
 Dar a Karma el cariño y la protección que merecía.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 3 06 58 PM" src="https://github.com/user-attachments/assets/6d9490ee-67a5-4bb7-aac3-56eb62404692" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 3 06 58 PM" src="https://github.com/user-attachments/assets/6d9490ee-67a5-4bb7-aac3-56eb62404692" />
 
 
 
 ---
 
-## 💼 Max Vladimir
+💼 ***Max Vladimir***
 
 **Descripción**
 
@@ -364,13 +364,13 @@ Max Vladimir es un empresario que, tras sufrir una tragedia familiar, dedica su 
 
 Encontrar justicia por la pérdida de su esposa e hija y aprender a seguir adelante sin olvidar a quienes amó.
 
-<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 12 10 25 AM (2)" src="https://github.com/user-attachments/assets/4a06f8af-abfe-4726-b9ab-d03051774a3b" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 12 10 25 AM (2)" src="https://github.com/user-attachments/assets/4a06f8af-abfe-4726-b9ab-d03051774a3b" />
 
 
 
 ---
 
-## 💰 Leonard
+💰 ***Leonard Levanniel***
 
 **Descripción**
 
@@ -386,7 +386,7 @@ Alcanzar sus objetivos personales y obtener aquello que más desea, sin importar
 
 ---
 
-## ❄ Kira Morozova
+❄ ***Kira Morozova***
 
 **Descripción**
 
@@ -396,8 +396,75 @@ Kira Morozova es una soldado rusa reservada, analítica y de gran capacidad estr
 
 Cumplir con su misión y permanecer fiel a sus ideales, incluso si ello significa enfrentarse a los protagonistas.
 
-<img width="600" height="680" alt="WhatsApp Image 2026-07-03 at 3 14 23 PM" src="https://github.com/user-attachments/assets/30d26879-0564-45e6-8231-08d7f32cf8a1" />
+<img width="500" height="580" alt="WhatsApp Image 2026-07-03 at 3 14 23 PM" src="https://github.com/user-attachments/assets/30d26879-0564-45e6-8231-08d7f32cf8a1" />
 
 
 
+---
+👑 ***Dios***
+
+**Descripción**
+
+Dios es la gobernante del Cielo y hermana mayor de Luciel. Es una figura de inmenso poder, sabiduría y autoridad, encargada de preservar el equilibrio entre los tres reinos. Aunque suele mostrarse serena y racional, también posee un profundo afecto por quienes considera su familia, incluso cuando sus ideales la enfrentan a ellos.
+
+La relación entre Dios y Luciel constituye uno de los pilares del pasado del universo de **Destinos Cruzados**. Sus diferencias sobre la forma en que debía gobernarse el mundo dieron origen a acontecimientos que cambiarían para siempre el destino del Cielo, el Infierno y la humanidad.
+
+**Motivación**
+
+Mantener el equilibrio entre los tres reinos y proteger el orden del mundo, incluso cuando ello implique tomar decisiones difíciles o enfrentarse a quienes más ama.
+
+<img width="296" height="600" alt="WhatsApp Image 2026-07-03 at 12 16 33 AM (3)" src="https://github.com/user-attachments/assets/e1f59b93-7dc3-495c-ac8d-29ccb0602594" />
+
+
+
+---
+
+💼 ***Jackson***
+
+**Descripción**
+
+Jackson es el padre de Artemis y un hombre ambicioso, autoritario y dispuesto a hacer cualquier cosa para alcanzar sus objetivos. Su influencia marca profundamente la vida de su hijo y desencadena algunos de los acontecimientos más importantes de la historia.
+
+Sus acciones provocan la muerte de Ernesto, padre de Zafira, un hecho que cambia para siempre la vida de Zafira y Karma y termina fracturando la amistad que los unía con Artemis. Convencido de que su hijo debe continuar con su legado, intenta moldearlo a su imagen y semejanza, obligándolo a seguir el camino que él ha elegido.
+
+Sin embargo, Artemis rechaza ese destino y decide escapar para construir su propio futuro, enfrentándose por primera vez a la voluntad de su padre.
+
+**Motivación**
+
+Conservar su poder, imponer su autoridad y asegurar que Artemis continúe el legado que él considera correcto.
+
+<img width="519" height="519" alt="WhatsApp Image 2026-07-03 at 3 41 22 PM" src="https://github.com/user-attachments/assets/3284c33c-8dd9-499a-a958-5320619391ff" />
+
+
+
+---
+
+🌹 ***María y Luci***
+
+**Descripción**
+
+María fue la esposa de Max Vladimir y madre de Luci. De origen humilde, encontró en Max a la persona con quien formar una familia basada en el amor y el respeto. Su bondad y calidez transformaron la vida de quienes la rodeaban.
+
+Su fallecimiento durante un trágico accidente marcó el inicio del profundo cambio que sufriría Max, convirtiéndose en uno de los acontecimientos más dolorosos de su vida.
+
+**Motivación**
+
+Construir una vida tranquila junto a su familia y brindar un futuro lleno de amor a su hija.
+
+🌼 ***Luci***
+
+**Descripción**
+
+Luci fue la hija de Max y María. Desde su nacimiento llenó de felicidad a su familia y representó la esperanza de un nuevo comienzo para sus padres.
+
+Su muerte durante el mismo accidente que acabó con la vida de María dejó una herida imposible de olvidar y se convirtió en el principal motivo que impulsó a Max a cambiar por completo su forma de vivir y de enfrentar el mundo.
+
+**Motivación**
+
+Al ser una niña pequeña, Luci no posee un objetivo propio dentro de la historia. Su existencia simboliza la inocencia, la esperanza y todo aquello que Max perdió en un solo instante.
+
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 3 46 33 PM" src="https://github.com/user-attachments/assets/61f6c6fa-9860-41f4-b643-c56c4a38b7fe" />
+
+
+---
 
