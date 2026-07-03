@@ -198,7 +198,7 @@ A lo largo de la historia deberá enfrentarse a un destino que cambiará por com
 Proteger a las personas que ama, perseguir su sueño como cantante y demostrar que incluso quienes han sufrido profundamente pueden encontrar un futuro lleno de esperanza.
 
 
-<img width="560" height="600" alt="WhatsApp Image 2026-07-03 at 12 10 26 AM (3)" src="https://github.com/user-attachments/assets/38244683-eb2b-4c63-a2fa-9cbbdd8642ee" />
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM (1)" src="https://github.com/user-attachments/assets/06736cb5-7478-4057-a843-3bf657058e75" />
 
 
 
@@ -217,7 +217,7 @@ Su habilidad para absorber el karma de otras personas representa tanto su mayor 
 
 Redimirse de los errores del pasado, proteger a Zafira y encontrar un lugar donde finalmente pueda ser aceptado.
 
-<img width="500" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
+<img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
 
 
 
@@ -235,6 +235,10 @@ Su valentía y determinación lo convierten en una pieza fundamental durante los
 
 Proteger a sus seres queridos y mantenerse fiel a sus principios, incluso cuando eso implique renunciar a sus propios deseos.
 
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM" src="https://github.com/user-attachments/assets/fef0c9f0-2a22-449f-ba48-100747290ddd" />
+
+
+
 ---
 
 🌹 ***Alice Smith***
@@ -248,3 +252,6 @@ Con el paso del tiempo descubrirá que su papel dentro de la historia es mucho m
 *Motivación*
 
 Descubrir la verdad sobre sí misma, comprender el origen de sus recuerdos y proteger a las personas que aprecia, incluso si eso implica enfrentarse a su propio destino.
+
+<img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 23 PM (4)" src="https://github.com/user-attachments/assets/b61e026b-cf7f-4b99-8c04-1598cb5c1fbe" />
+
