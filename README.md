@@ -217,7 +217,7 @@ Su habilidad para absorber el karma de otras personas representa tanto su mayor 
 
 Redimirse de los errores del pasado, proteger a Zafira y encontrar un lugar donde finalmente pueda ser aceptado.
 
-<img width="600" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
 
 
 
