@@ -6,7 +6,7 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
 <details>
   <summary>Haz clic aquí para abrir el Índice 📚</summary>
 
-  * **🏠 Inicio**
+* **🏠 Inicio**
   * [Bienvenida](#bienvenida)
   * [¿Qué es Destinos Cruzados?](#qué-es-destinos-cruzados)
   * [Últimas actualizaciones](#últimas-actualizaciones)
