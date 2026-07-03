@@ -413,7 +413,7 @@ La relación entre Dios y Luciel constituye uno de los pilares del pasado del un
 
 Mantener el equilibrio entre los tres reinos y proteger el orden del mundo, incluso cuando ello implique tomar decisiones difíciles o enfrentarse a quienes más ama.
 
-<img width="296" height="600" alt="WhatsApp Image 2026-07-03 at 12 16 33 AM (3)" src="https://github.com/user-attachments/assets/e1f59b93-7dc3-495c-ac8d-29ccb0602594" />
+<img width="500" height="500" alt="WhatsApp Image 2026-07-03 at 12 16 33 AM (3)" src="https://github.com/user-attachments/assets/e1f59b93-7dc3-495c-ac8d-29ccb0602594" />
 
 
 
