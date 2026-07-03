@@ -6,7 +6,7 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
 <details>
   <summary>Haz clic aquí para abrir el Índice 📚</summary>
 
-  (* **🏠 Inicio**
+  * **🏠 Inicio**
   * [Bienvenida](#bienvenida)
   * [¿Qué es Destinos Cruzados?](#qué-es-destinos-cruzados)
   * [Últimas actualizaciones](#últimas-actualizaciones)
@@ -26,7 +26,7 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
   * [El Cielo](#el-cielo)
   * [El Infierno](#el-infierno)
   * [Lugares importantes](#lugares-importantes)
-  * [Historia del universo](#historia-del-universo))
+  * [Historia del universo](#historia-del-universo)
 
 </details>
 
