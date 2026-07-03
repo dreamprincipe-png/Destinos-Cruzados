@@ -27,6 +27,65 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
   * [El Infierno](#el-infierno)
   * [Lugares importantes](#lugares-importantes)
   * [Historia del universo](#historia-del-universo)
+* **📜 Cronología**
+  * [Línea temporal completa](#línea-temporal-completa)
+  * [Eventos importantes](#eventos-importantes)
+  * [Antes de la historia principal](#antes-de-la-historia-principal)
+  * [Historia principal](#historia-principal)
+  * [Después de la historia](#después-de-la-historia)
+* **✨ Sistema del Mundo**
+  * [El Karma](#el-karma)
+  * [Reencarnación](#reencarnación)
+  * [Almas](#almas)
+  * [Magia](#magia)
+  * [Poderes](#poderes)
+  * [Maldiciones](#maldiciones)
+  * [Transformaciones](#transformaciones)
+  * [Muerte](#muerte)
+  * [Vida después de la muerte](#vida-después-de-la-muerte)
+* **😈 Razas y Especies**
+  * [Humanos](#humanos)
+  * [Demonios](#demonios)
+  * [Ángeles](#ángeles)
+  * [Dragones](#dragones)
+  * [Otras criaturas](#otras-criaturas)
+* **⚔️ Organizaciones**
+  * [Gobierno celestial](#gobierno-celestial)
+  * [Gobierno infernal](#gobierno-infernal)
+  * [Organizaciones humanas](#organizaciones-humanas)
+  * [Familias importantes](#familias-importantes)
+* **📚 Lore**
+  * [Creación del universo](#creación-del-universo)
+  * [Historia antigua](#historia-antigua)
+  * [Leyendas](#leyendas)
+  * [Profecías](#profecías)
+  * [Objetos importantes](#objetos-importantes)
+  * [Símbolos](#símbolos)
+  * [Curiosidades](#curiosidades)
+* **🎵 Música**
+  * [Canciones de los personajes](#canciones-de-los-personajes)
+  * [Banda sonora](#banda-sonora)
+  * [Temas principales](#temas-principales)
+* **🖼️ Galería**
+  * [Arte oficial](#arte-oficial)
+  * [Bocetos](#bocetos)
+  * [Diseños antiguos](#diseños-antiguos)
+  * [Ilustraciones](#ilustraciones)
+* **🎭 Concept Art**
+  * [Diseño de personajes](#diseño-de-personajes)
+  * [Evolución de los diseños](#evolución-de-los-diseños)
+  * [Vestimentas](#vestimentas)
+  * [Expresiones](#expresiones)
+* **📝 Extras**
+  * [Datos curiosos](#datos-curiosos)
+  * [Easter eggs](#easter-eggs)
+  * [Referencias](#referencias)
+  * [Preguntas frecuentes](#preguntas-frecuentes)
+* **👩‍💻 Sobre la autora**
+  * [Presentación](#presentación)
+  * [Proceso creativo](#proceso-creativo)
+  * [Redes sociales](#redes-sociales)
+  * [Contacto](#contacto)
 
 </details>
 
