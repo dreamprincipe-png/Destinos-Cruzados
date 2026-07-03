@@ -4,7 +4,7 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
 
 **Destinos Cruzados** es el sitio oficial dedicado al universo de la obra del mismo nombre, un mundo de fantasía, drama, acción y romance donde el karma, la reencarnación y el destino entrelazan las vidas de sus personajes.
 
-<details>
+<details markdown="1">
 <summary>Haz clic aquí para abrir el Índice 📚</summary>
 
 * **🏠 Inicio**
