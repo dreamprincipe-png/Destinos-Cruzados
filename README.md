@@ -93,10 +93,29 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
 </div>
 </details>
 
-En este universo, el Cielo, el Infierno y el mundo humano coexisten bajo un frágil equilibrio. Antiguos conflictos, secretos del pasado y decisiones capaces de cambiar el futuro marcarán el camino de quienes luchan por proteger aquello que más aman.
+En este universo, el destino no es una fuerza inmutable. Cada decisión, cada encuentro y cada sacrificio dejan una huella capaz de cambiar el curso de una vida.
 
-Cada personaje posee una historia única, marcada por pérdidas, sacrificios, amistades, traiciones y la búsqueda de redención. Ningún encuentro ocurre por casualidad; cada vida está unida por hilos invisibles que terminan cruzándose de formas inesperadas.
-
-En este sitio encontrarás información oficial sobre los personajes, el mundo, la cronología, las organizaciones, las habilidades y los distintos elementos que dan vida al universo de **Destinos Cruzados**.
+Aquí podrás explorar los personajes, los acontecimientos y los secretos que dan forma al mundo de **Destinos Cruzados**.
 
 Gracias por visitar esta página y formar parte de este viaje.
+
+## ¿Qué es Destinos Cruzados?
+
+**Destinos Cruzados** es una obra original de fantasía, drama, acción y romance que narra la historia de personajes cuyas vidas quedan unidas por el destino y las consecuencias de sus propias decisiones.
+
+Ambientada en un universo donde el Cielo, el Infierno y el mundo humano coexisten, la obra explora temas como el karma, la redención, el sacrificio, la pérdida, la esperanza y el valor de los vínculos que se forman entre las personas.
+
+A través de una narrativa centrada en el desarrollo de sus personajes, **Destinos Cruzados** busca mostrar que incluso en los momentos más oscuros siempre existe la posibilidad de cambiar, crecer y encontrar un nuevo camino.
+
+Este sitio reúne la información oficial de la obra y está pensado como un espacio para descubrir en profundidad su historia, sus personajes y el mundo que los rodea.
+
+<img width="1600" height="914" alt="WhatsApp Image 2026-07-02 at 11 58 19 PM" src="https://github.com/user-attachments/assets/426e0b01-e8a8-41db-8f3e-a146c6c8f060" />
+
+
+
+
+
+
+
+
+
