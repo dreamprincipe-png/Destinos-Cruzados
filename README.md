@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="WhatsApp Image 2026-07-03 at 12 10 26 AM (3)" src="https://github.com/user-attachments/assets/a8b15ab2-5301-4cf2-8f59-4ff8c2e2b1a9" />
 # Destinos-Cruzados
 Página web oficial para el Lore y los personajes de Destinos Cruzados
 ## Bienvenido a Destinos Cruzados
@@ -196,6 +197,12 @@ A lo largo de la historia deberá enfrentarse a un destino que cambiará por com
 *Motivación*
 
 Proteger a las personas que ama, perseguir su sueño como cantante y demostrar que incluso quienes han sufrido profundamente pueden encontrar un futuro lleno de esperanza.
+
+
+<img width="500" height="600" alt="WhatsApp Image 2026-07-03 at 12 10 26 AM (3)" src="https://github.com/user-attachments/assets/38244683-eb2b-4c63-a2fa-9cbbdd8642ee" />
+
+
+
 
 ---
 
