@@ -1,6 +1,6 @@
 # Destinos-Cruzados
 Página web oficial para el Lore y los personajes de Destinos Cruados
-# Bienvenido a Destinos Cruzados
+## Bienvenido a Destinos Cruzados
 
 **Destinos Cruzados** es el sitio oficial dedicado al universo de la obra del mismo nombre, un mundo de fantasía, drama, acción y romance donde el karma, la reencarnación y el destino entrelazan las vidas de sus personajes.
 <details>
