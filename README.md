@@ -6,7 +6,27 @@ Página web oficial para el Lore y los personajes de Destinos Cruados
 <details>
   <summary>Haz clic aquí para abrir el Índice 📚</summary>
 
-  (Aquí adentro pegaremos todos tus enlaces en el siguiente paso)
+  (* **🏠 Inicio**
+  * [Bienvenida](#bienvenida)
+  * [¿Qué es Destinos Cruzados?](#qué-es-destinos-cruzados)
+  * [Últimas actualizaciones](#últimas-actualizaciones)
+* **📖 La Obra**
+  * [Sinopsis](#sinopsis)
+  * [Géneros](#géneros)
+  * [Temáticas](#temáticas)
+  * [Inspiraciones](#inspiraciones)
+* **👤 Personajes**
+  * [Protagonistas](#protagonistas)
+  * [Antagonistas](#antagonistas)
+  * [Personajes secundarios](#personajes-secundarios)
+  * [Personajes fallecidos](#personajes-fallecidos)
+  * [Árbol de relaciones](#árbol-de-relaciones)
+* **🌍 El Universo**
+  * [El mundo humano](#el-mundo-humano)
+  * [El Cielo](#el-cielo)
+  * [El Infierno](#el-infierno)
+  * [Lugares importantes](#lugares-importantes)
+  * [Historia del universo](#historia-del-universo))
 
 </details>
 
