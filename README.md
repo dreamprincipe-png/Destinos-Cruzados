@@ -198,7 +198,7 @@ A lo largo de la historia deberá enfrentarse a un destino que cambiará por com
 Proteger a las personas que ama, perseguir su sueño como cantante y demostrar que incluso quienes han sufrido profundamente pueden encontrar un futuro lleno de esperanza.
 
 
-<img width="500" height="600" alt="WhatsApp Image 2026-07-03 at 12 10 26 AM (3)" src="https://github.com/user-attachments/assets/38244683-eb2b-4c63-a2fa-9cbbdd8642ee" />
+<img width="560" height="600" alt="WhatsApp Image 2026-07-03 at 12 10 26 AM (3)" src="https://github.com/user-attachments/assets/38244683-eb2b-4c63-a2fa-9cbbdd8642ee" />
 
 
 
@@ -216,6 +216,10 @@ Su habilidad para absorber el karma de otras personas representa tanto su mayor 
 *Motivación*
 
 Redimirse de los errores del pasado, proteger a Zafira y encontrar un lugar donde finalmente pueda ser aceptado.
+
+<img width="600" height="500" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (4)" src="https://github.com/user-attachments/assets/5dd1f5c9-7445-401c-a16f-cf52f6a913af" />
+
+
 
 ---
 
