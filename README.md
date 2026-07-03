@@ -1,4 +1,3 @@
-<img width="1024" height="1024" alt="WhatsApp Image 2026-07-03 at 12 10 26 AM (3)" src="https://github.com/user-attachments/assets/a8b15ab2-5301-4cf2-8f59-4ff8c2e2b1a9" />
 # Destinos-Cruzados
 Página web oficial para el Lore y los personajes de Destinos Cruzados
 ## Bienvenido a Destinos Cruzados
