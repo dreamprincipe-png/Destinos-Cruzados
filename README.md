@@ -183,7 +183,6 @@ Cada uno enfrenta conflictos personales, pérdidas y decisiones que pondrán a p
 
 En esta sección encontrarás información detallada sobre cada uno de los protagonistas, incluyendo su historia, personalidad, habilidades, relaciones y otros aspectos relevantes dentro de la obra.
 
-## Protagonistas
 
 🌿***Zafira Viridian***
 
@@ -199,7 +198,6 @@ Proteger a las personas que ama, perseguir su sueño como cantante y demostrar q
 
 
 <img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 25 08 PM (1)" src="https://github.com/user-attachments/assets/06736cb5-7478-4057-a843-3bf657058e75" />
-
 
 
 
@@ -254,4 +252,152 @@ Con el paso del tiempo descubrirá que su papel dentro de la historia es mucho m
 Descubrir la verdad sobre sí misma, comprender el origen de sus recuerdos y proteger a las personas que aprecia, incluso si eso implica enfrentarse a su propio destino.
 
 <img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 23 PM (4)" src="https://github.com/user-attachments/assets/b61e026b-cf7f-4b99-8c04-1598cb5c1fbe" />
+
+
+
+---
+
+## Antagonistas
+
+Los antagonistas de **Destinos Cruzados** representan los principales obstáculos que deberán enfrentar los protagonistas a lo largo de la historia. Sin embargo, sus acciones no siempre nacen de la maldad. Muchos de ellos están impulsados por ideales, deseos, pérdidas o convicciones que los llevan a tomar decisiones cuestionables.
+
+Cada antagonista desempeña un papel fundamental en el desarrollo de la trama, poniendo a prueba las creencias, la fortaleza y la determinación de los protagonistas. Sus historias demuestran que la línea que separa al héroe del villano no siempre es tan clara como parece.
+
+---
+
+## 👑 Luciel
+
+**Descripción**
+
+Luciel es el antagonista principal de **Destinos Cruzados** y uno de los seres más poderosos del universo. Gobernante del Infierno, es un estratega inteligente, sereno y calculador que rara vez actúa impulsivamente. Su presencia impone respeto tanto entre aliados como entre enemigos.
+
+Aunque suele mostrarse frío y distante, también posee un lado más humano que solo unos pocos llegan a conocer. Su historia está marcada por acontecimientos que cambiaron para siempre su forma de ver el mundo y lo llevaron a seguir un camino diferente al de su pasado.
+
+**Motivación**
+
+Conservar el equilibrio de su reino y proteger aquello que considera más importante, incluso si para lograrlo debe enfrentarse al resto del mundo.
+
+
+<img width="600" height="600" alt="WhatsApp Image 2026-07-02 at 11 58 21 PM (1)" src="https://github.com/user-attachments/assets/0665ae5f-c0d4-43ac-9164-b09fa696d5c6" />
+
+
+
+---
+
+## 🐍 Danieru
+
+**Descripción**
+
+Danieru es uno de los antagonistas más impredecibles de la historia. Elegante, astuto y de gran inteligencia, suele actuar siguiendo sus propios intereses y rara vez permite que los demás conozcan sus verdaderas intenciones.
+
+A lo largo de la obra su papel evoluciona constantemente, convirtiéndose en un personaje difícil de definir únicamente como héroe o villano.
+
+**Motivación**
+
+Alcanzar sus propios objetivos y encontrar el camino que considera correcto, aun cuando ello implique tomar decisiones moralmente cuestionables.
+
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 2 33 25 PM" src="https://github.com/user-attachments/assets/47294d87-f555-4e01-8c6c-9d24e01b284f" />
+
+## Personajes secundarios
+
+Los personajes secundarios enriquecen el universo de **Destinos Cruzados** y desempeñan un papel fundamental en el desarrollo de la historia. Aunque no protagonizan el conflicto principal, sus decisiones, enseñanzas y relaciones influyen directamente en la vida de los demás personajes y en el rumbo de los acontecimientos.
+
+Cada uno aporta una perspectiva diferente al mundo de la obra, permitiendo conocer con mayor profundidad la historia, la cultura y los conflictos de los distintos reinos.
+
+---
+## 🌸 Lilith
+
+**Descripción**
+
+Lilith es la madre de Karma y hermana de Danieru. Su bondad, compasión y fortaleza la convirtieron en una figura muy querida por quienes la conocieron. A diferencia de muchos demonios de su época, creía en la importancia de la empatía y el amor, valores que marcaron profundamente a su familia.
+
+Falleció al dar a luz a Karma, por lo que nunca tuvo la oportunidad de conocer a su hijo. Sin embargo, su legado continúa presente a través de los recuerdos de quienes la amaron y de las consecuencias que su pérdida dejó en sus vidas.
+
+**Motivación**
+
+Proteger a su familia y traer una nueva vida al mundo con la esperanza de que pudiera crecer en un futuro mejor. Incluso después de su muerte, su recuerdo continúa inspirando a quienes la conocieron.
+
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 3 06 58 PM (1)" src="https://github.com/user-attachments/assets/04e5f1d1-84e0-4346-8bd2-198d151ddc4b" />
+
+
+
+---
+## 🩺 Ernesto
+
+**Descripción**
+
+Ernesto es el padre adoptivo de Karma y el padre de Zafira. Médico de profesión y de corazón bondadoso, dedicó su vida a cuidar de quienes más lo necesitaban. Su compasión y sentido de la justicia lo llevaron a acoger a Karma como un miembro más de su familia, brindándole el cariño que nunca había recibido.
+
+**Motivación**
+
+Proteger a su familia y hacer todo lo posible por salvar la vida de Zafira.
+
+<img width="1024" height="1024" alt="WhatsApp Image 2026-07-03 at 12 17 02 AM (3)" src="https://github.com/user-attachments/assets/90b4abdb-9845-46ba-a826-5a06c43bf9ef" />
+
+
+
+---
+
+## 🧹 Madeleine
+
+**Descripción**
+
+Madeleine fue la sirvienta encargada de cuidar de Karma durante su infancia. A pesar de vivir en circunstancias difíciles, siempre intentó ofrecerle afecto y protegerlo del sufrimiento que lo rodeaba, convirtiéndose en una de las pocas figuras maternas que tuvo en su niñez.
+
+**Motivación**
+
+Dar a Karma el cariño y la protección que merecía.
+
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 3 06 58 PM" src="https://github.com/user-attachments/assets/6d9490ee-67a5-4bb7-aac3-56eb62404692" />
+
+
+
+---
+
+## 💼 Max Vladimir
+
+**Descripción**
+
+Max Vladimir es un empresario que, tras sufrir una tragedia familiar, dedica su vida a buscar respuestas y enfrentar a quienes considera responsables de su dolor. Con el tiempo se convierte en un hombre fuerte, disciplinado y decidido, aunque bajo su apariencia fría aún conserva el profundo amor que sentía por su familia.
+
+**Motivación**
+
+Encontrar justicia por la pérdida de su esposa e hija y aprender a seguir adelante sin olvidar a quienes amó.
+
+<img width="600" height="600" alt="WhatsApp Image 2026-07-03 at 12 10 25 AM (2)" src="https://github.com/user-attachments/assets/4a06f8af-abfe-4726-b9ab-d03051774a3b" />
+
+
+
+---
+
+## 💰 Leonard
+
+**Descripción**
+
+Leonard es un personaje asociado al pecado de la avaricia. Inteligente, ambicioso y calculador, suele anteponer sus propios intereses, convirtiéndose en una figura cuya influencia puede alterar el curso de los acontecimientos.
+
+**Motivación**
+
+Alcanzar sus objetivos personales y obtener aquello que más desea, sin importar el precio.
+
+<img width="519" height="519" alt="WhatsApp Image 2026-07-03 at 12 10 27 AM (1)" src="https://github.com/user-attachments/assets/2d183d1b-6310-4dc0-aa03-29df47e7065e" />
+
+
+
+---
+
+## ❄ Kira Morozova
+
+**Descripción**
+
+Kira Morozova es una soldado rusa reservada, analítica y de gran capacidad estratégica. Su disciplina y serenidad la convierten en una combatiente formidable, mientras que el misterio que rodea su pasado hace difícil conocer cuáles son sus verdaderas intenciones.
+
+**Motivación**
+
+Cumplir con su misión y permanecer fiel a sus ideales, incluso si ello significa enfrentarse a los protagonistas.
+
+<img width="600" height="680" alt="WhatsApp Image 2026-07-03 at 3 14 23 PM" src="https://github.com/user-attachments/assets/30d26879-0564-45e6-8231-08d7f32cf8a1" />
+
+
+
 
